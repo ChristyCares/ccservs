@@ -1,0 +1,2 @@
+# ccservs
+Static Landing Page
